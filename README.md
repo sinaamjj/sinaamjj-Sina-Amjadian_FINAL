@@ -5,7 +5,6 @@
 ![Torino Logo](https://img.shields.io/badge/Torino-Travel%20Platform-blue?style=for-the-badge)
 ![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)
 ![Express](https://img.shields.io/badge/Express-4.x-green?style=for-the-badge&logo=express)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 
 </div>
