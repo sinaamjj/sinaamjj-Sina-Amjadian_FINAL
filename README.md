@@ -7,7 +7,6 @@
 ![Express](https://img.shields.io/badge/Express-4.x-green?style=for-the-badge&logo=express)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
-)
 
 </div>
 
