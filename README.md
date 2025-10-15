@@ -7,9 +7,7 @@
 ![Express](https://img.shields.io/badge/Express-4.x-green?style=for-the-badge&logo=express)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
-**پلتفرم جامع رزرو و مدیریت تورهای گردشگری با فناوری‌های مدرن**
-
-[مشاهده دمو](#) | [مستندات API](http://localhost:6500/api-docs) | [گزارش باگ](https://github.com/sinaamjj/sinaamjj-Sina-Amjadian_FINAL/issues)
+)
 
 </div>
 
