@@ -29,23 +29,6 @@
 
 ---
 
-## 🎥 نمایش پروژه
-
-<div align="center">
-
-### صفحه اصلی و لیست تورها
-![Home Page](./assets/screenshot-home.png)
-
-### پنل کاربری و مدیریت رزروها
-![Dashboard](./assets/screenshot-dashboard.png)
-
-### جزئیات تور و فرآیند رزرو
-![Tour Details](./assets/screenshot-details.png)
-
-</div>
-
----
-
 ## ⚡ فناوری‌ها و ابزارها
 
 ### 🎨 فرانت‌اند
@@ -417,10 +400,6 @@ curl http://localhost:6500/tour
 <div align="center">
 
 **سینا امجدیان**
-
-[![GitHub](https://img.shields.io/badge/GitHub-sinaamjj-181717?style=for-the-badge&logo=github)](https://github.com/sinaamjj)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:sina.amjadian@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sina-amjadian)
 
 </div>
 
